@@ -8,7 +8,7 @@ import openai  # pip install openai
 from prophet import Prophet  # pip install prophet
 
 # Set page configuration
-st.set_page_config(page_title='Excel Plotter with AI')
+st.set_page_config(page_title='Excel Analysis with AI')
 
 # Define CSS for light and dark modes
 light_mode_css = """
